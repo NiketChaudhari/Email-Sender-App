@@ -1,0 +1,82 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+
+.Welcome {
+margin-top: 20vh;
+min-height: 50vh;
+}
+
+
+.Welcome_h1 {
+  margin-inline: 50px;
+  min-height: 50vh;
+  color: blue;
+  font-family :'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 100px;
+  text-align:center;
+}
+
+
+
+
+
+.Next {
+  margin-top: 15vh;
+  min-height: 70vh;
+  }
+
+
+.Next_h1 {
+
+  /* min-height: 10vh; */
+  color: black;
+  font-family :'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 30px;
+  text-align:center;
+  }
+
+
+  .Next_div1 {
+    /* min-height: 10vh; */
+    color: black;
+    font-family :'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+  text-align:center;
+    }
+
+  .Next_h2 {
+    /* min-height: 10vh; */
+    color: black;
+    font-family :'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    text-align:center;
+    }
+
+    .Next_input {
+      width: 300px;
+      color: black;
+      font-family :'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      font-size: 25px;
+      text-align:center;
+      margin: 10px;
+      height: 40px;
+      }
+
+    
+
+
+  .Next_button {
+    width: 100%;
+    height: 30px;
+    color: black;
+    font-family :'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    text-align:center;
+    margin-top: 20px;
+    border-radius: 10px;
+
+  }
+  .Next_button:hover {background-color: rgb(193, 175, 209)}
